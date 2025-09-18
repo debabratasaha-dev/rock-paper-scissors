@@ -14,7 +14,7 @@ A simple and interactive Rock-Paper-Scissors game built with Python. Play agains
 ### Prerequisites
 
 - Python 3.8–3.12 (Because Mediapipe does not support Python 3.13+ as of September 2025)
-- Required libraries: `tkinter`, `PIL` (Pillow)
+- Required libraries: `mediapipe`,`opencv-python`
 
 ### Installation
 
@@ -45,4 +45,5 @@ python app.py
 - `README.md` — Project documentation
 - `requirements.txt` — Module requirements
 - `rock-paper-scissors.task` — ML model
+
 
